@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env*
+!config.example.py
+last_check.json
+moodle_downloads/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
